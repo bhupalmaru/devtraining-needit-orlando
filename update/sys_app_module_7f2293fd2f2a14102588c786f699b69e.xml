@@ -4,7 +4,7 @@
         <application display_value="Needit">1f84d2e52f6ed0102588c786f699b63c</application>
         <assessment/>
         <device_type/>
-        <filter table="x_58872_needit_needit">stateNOT IN3,4,7^EQ<item display_value="3,4,7" endquery="false" field="state" goto="false" newquery="false" operator="NOT IN" or="false" value="3,4,7"/>
+        <filter table="x_58872_needit_needit1">stateNOT IN3,4,7^EQ<item display_value="3,4,7" endquery="false" field="state" goto="false" newquery="false" operator="NOT IN" or="false" value="3,4,7"/>
             <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
         </filter>
         <hint>A list of records in the needit table  that do not have  state value of closed</hint>
@@ -14,7 +14,7 @@
         <map_page/>
         <mobile_title>open</mobile_title>
         <mobile_view_name>Mobile</mobile_view_name>
-        <name>x_58872_needit_needit</name>
+        <name>x_58872_needit_needit1</name>
         <order>300</order>
         <override_menu_roles>true</override_menu_roles>
         <query/>
@@ -26,15 +26,15 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>7f2293fd2f2a14102588c786f699b69e</sys_id>
-        <sys_mod_count>1</sys_mod_count>
-        <sys_name>open</sys_name>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>x_58872_needit_needit1</sys_name>
         <sys_overrides/>
         <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
         <sys_policy/>
         <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
         <sys_update_name>sys_app_module_7f2293fd2f2a14102588c786f699b69e</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-08-11 15:40:21</sys_updated_on>
+        <sys_updated_on>2020-08-26 16:13:27</sys_updated_on>
         <timeline_page/>
         <title>open</title>
         <uncancelable>false</uncancelable>
